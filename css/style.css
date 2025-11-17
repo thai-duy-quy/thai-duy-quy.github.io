@@ -47,6 +47,7 @@ a:focus {
 	border:1px solid #fff;
 	padding:1em;
 	width:100%;
+  border-radius: 10px;
 }
 .details{
 	margin-top:2em;
