@@ -93,7 +93,12 @@ address span{
   color: #6ecadc;
 }
 .details_header{
-	padding: 0em 1em 0 2em;
+  height: 60px;
+  width: 100%;
+  background-color: #ffffff;
+	padding: 20px 1px 0 2px;
+  top: 0px;
+  position: fixed;
 }
 .details_header ul li{
 	display:inline-block;
@@ -140,7 +145,7 @@ address span{
 	font-size:0.9em;
 }
 .company_details p,.skill_info p,.education_details p{
-	color:#999;
+	color:#2e2e2e;
 	font-weight:300;
 	line-height:1.7em;
 }
@@ -181,12 +186,15 @@ address span{
 }
 h3.clr1{
 	background:#3eb991;
+  border-radius: 0px 5px 5px 0px;
 }
 h3.clr2{
 	background:#e9a820;
+  border-radius: 0px 5px 5px 0px;
 }
 h3.clr3{
 	background:#3eb991;
+  border-radius: 0px 5px 5px 0px;
 }
 .copywrite{
 	padding-left:2em;
